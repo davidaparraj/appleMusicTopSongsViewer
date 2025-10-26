@@ -34,7 +34,7 @@ The Weeknd top 5 results:
  5. I Feel It Coming (feat. Daft Punk) - Starboy (2016)
 
 ## How to Run
-1. Clone this repository:
+1. Clone this repository:  
    git clone https://github.com/davidaparraj/appleMusicTopSongsViewer.git  
    cd appleMusicTopSongsViewer
 3. Install dependencies:
