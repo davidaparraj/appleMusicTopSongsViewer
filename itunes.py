@@ -28,6 +28,7 @@ response = requests.get(url, params=params)
 # The data we requested gets back as JSON
 o = response.json()
 # Organize data to show top songs of artist and other details
-print(f"{artist} top {songs} results:\n")
+print(f"\n{artist} top {songs} results:")
 for i, result in enumerate(o["results"], start=1):
     print(f"{i:>2}. {result["trackName"]} - {result["collectionName"]} ({result["releaseDate"][:4]})") # Slice release date to show only year
+
