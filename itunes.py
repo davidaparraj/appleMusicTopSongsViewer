@@ -1,4 +1,3 @@
-import json
 import requests
 
 # Function to raise exceptions for artist's name and number of songs
