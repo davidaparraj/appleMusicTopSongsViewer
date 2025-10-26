@@ -19,3 +19,15 @@ It was developed to practice **API integration**, **JSON data handling**, and **
 - REST API requests using the `requests` library  
 - JSON parsing and dictionary traversal  
 - Data organization and string formatting in Python
+
+# Example Output
+Enter the name of the desired artist: 
+Enter the amount of songs to display: 
+
+The Weeknd top 5 results:
+
+ 1. Call Out My Name - My Dear Melancholy, (2018)
+ 2. Blinding Lights - Blinding Lights - Single (2019)
+ 3. Die For You - Starboy (2016)
+ 4. One Of The Girls - The Idol Episode 4 (Music from the HBO Original Series) - Single (2023)
+ 5. I Feel It Coming (feat. Daft Punk) - Starboy (2016)
