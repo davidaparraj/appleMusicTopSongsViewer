@@ -35,7 +35,7 @@ The Weeknd top 5 results:
 
 ## How to Run
 1. Clone this repository:
-   git clone https://github.com/davidaparraj/appleMusicTopSongsViewer.git
+   git clone https://github.com/davidaparraj/appleMusicTopSongsViewer.git  
    cd appleMusicTopSongsViewer
 3. Install dependencies:
    pip install requests
