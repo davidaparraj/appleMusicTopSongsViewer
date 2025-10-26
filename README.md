@@ -22,6 +22,7 @@ It was developed to practice **API integration**, **JSON data handling**, and **
 
 # Example Output
 Enter the name of the desired artist: 
+
 Enter the amount of songs to display: 
 
 The Weeknd top 5 results:
