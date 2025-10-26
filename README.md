@@ -32,3 +32,19 @@ The Weeknd top 5 results:
  3. Die For You - Starboy (2016)
  4. One Of The Girls - The Idol Episode 4 (Music from the HBO Original Series) - Single (2023)
  5. I Feel It Coming (feat. Daft Punk) - Starboy (2016)
+
+## How to Run
+1. Clone this repository:
+   git clone https://github.com/davidaparraj/appleMusicTopSongsViewer.git
+   cd appleMusicTopSongsViewer
+3. Install dependencies:
+   pip install requests
+4. Run the program:
+   python itunes.py
+
+## Author
+**David Parra**  
+Computer Science Sophomore @ Florida Polytechnic University  
+ Concentrations: Software Engineering & Machine Learning  
+ [LinkedIn](https://linkedin.com/in/davidaparraj) | [GitHub](https://github.com/davidaparraj)
+
