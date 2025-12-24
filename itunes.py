@@ -15,6 +15,7 @@ class Artist():
         return response.json() # Return the response as JSON
     
     def showInfo(self, results: dict):
+        print(f"{self.__name} top {self.__songs} results:")
         for i, result in enumerate(results["results"], start=1):
             print(f"{i:>2}. {result["trackName"]} - {result["collectionName"]} ({result["releaseDate"][:4]})") # Slice release date to show only year
     
@@ -62,3 +63,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
