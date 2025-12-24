@@ -1,4 +1,4 @@
-# Apple Music Top Songs Viewer (Python)
+# 🎧 Apple Music Top Songs Viewer (Python)
 
 ## Overview
 This Python program retrieves and displays the **top songs** of a given artist using the **iTunes Search API** based on user input.  
